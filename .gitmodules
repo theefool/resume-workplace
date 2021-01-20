@@ -1,0 +1,6 @@
+[submodule "3rdparty/resume.md"]
+	path = 3rdparty/resume.md
+	url = git@github.com:mikepqr/resume.md.git
+[submodule "3rdparty/make-virtualenv"]
+	path = 3rdparty/make-virtualenv
+	url = git@github.com:theefool/make-virtualenv.git
